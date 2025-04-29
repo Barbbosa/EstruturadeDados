@@ -1,1 +1,4 @@
-cxvdsdhtthsthttdhth
+Uma lista encadeada é uma estrutura de dados onde os elementos, chamados de nós, são armazenados de forma não contígua. Cada nó contém duas partes:
+-> Valor: O dado armazenado.
+-> Ponteiro/Referência: Um endereço que aponta para o próximo nó da lista.
+O primeiro nó é chamado de cabeça e o último nó aponta para nulo, indicando o fim da lista. As listas encadeadas permitem inserções e remoções eficientes, mas o acesso a elementos exige percorrer a lista do começo até o item desejado.
