@@ -1,4 +1,4 @@
-from listaencadeadas import Node
+from ListasEncadeadas.node import Node
 
 class ListaSimples:
     """
